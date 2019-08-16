@@ -28,7 +28,19 @@ La **tigre reale del Bengala** è la più commune e diffusa sottospeciedi tigre 
    :height: 115 px
    :width: 230 px
 
+---------------------
 
+1.3 Leone
+*********
+
+Il **leone** è il più grande, dopo la tigre, dei cinque grandi felidi del genere *Panthera*. 
+
+
+|IMG3|
+
+.. |IMG3| image:: static/
+   :height: 115 px
+   :width: 230 px
 
 
 
