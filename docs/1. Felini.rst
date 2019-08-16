@@ -1,9 +1,9 @@
 
 1. Felini
-####
+#########
 
 1.1 Gatto
-****
+*********
 
 Il gatto domestico è un **mammifero carnivoro** appartenente alla famiglia dei *felidi*.
 
@@ -15,10 +15,17 @@ Il gatto domestico è un **mammifero carnivoro** appartenente alla famiglia dei 
    :width: 330 px
 
 
+1.2 Tigre
+*********
+
+La **tigre reale del Bengala** è la più commune e diffusa sottospeciedi tigre tuttora esistente. 
 
 
+|IMG1|
 
-
+.. |IMG1| image:: static/video-gatti-prega.jpg
+   :height: 115 px
+   :width: 230 px
 
 
 
