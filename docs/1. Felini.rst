@@ -14,6 +14,7 @@ Il gatto domestico è un **mammifero carnivoro** appartenente alla famiglia dei 
    :height: 420 px
    :width: 330 px
 
+---------------------
 
 1.2 Tigre
 *********
