@@ -18,7 +18,9 @@ Il **cane** è un mammifero appartenente all'ordine *Carnivora*.
 2.2 Lupo  
 ********
 
-Il **lupo grigio** è un canide lupino, presente nelle zone remote del Nordamerica e dell'Eurasia. 
+Il **lupo grigio** è un canide lupino, presente nelle zone remote del Nordamerica e dell'Eurasia. Alcuni esemplari presentano anche mantelli bianchi, rossi, bruni, o neri. 
+
+
 |IMG2|
 
 .. |IMG2| image:: static/con_h_13.01285371_web.630x360.jpg
