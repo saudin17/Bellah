@@ -8,6 +8,11 @@
 Il gatto domestico è un **mammifero carnivoro** appartenente alla famiglia dei *felidi*.
 
 
+|IMG1|
+
+.. |IMG1| image:: static/
+   :height: 348 px
+   :width: 464 px
 
 
 
