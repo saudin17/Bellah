@@ -23,7 +23,7 @@ La **tigre reale del Bengala** è la più commune e diffusa sottospeciedi tigre 
 
 |IMG1|
 
-.. |IMG1| image:: static/video-gatti-prega.jpg
+.. |IMG1| image:: static/redim.jpg
    :height: 115 px
    :width: 230 px
 
