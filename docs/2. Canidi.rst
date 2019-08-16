@@ -5,8 +5,7 @@
 2.1 Cane 
 ********
 
-Il **cane** è un mammifero 
-
+Il **cane** è un mammifero appartenente all'ordine *Carnivora*.
 
 
 
