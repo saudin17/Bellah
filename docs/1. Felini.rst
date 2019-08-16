@@ -21,9 +21,9 @@ Il gatto domestico è un **mammifero carnivoro** appartenente alla famiglia dei 
 La **tigre reale del Bengala** è la più commune e diffusa sottospeciedi tigre tuttora esistente. 
 
 
-|IMG1|
+|IMG2|
 
-.. |IMG1| image:: static/redim.jpg
+.. |IMG2| image:: static/redim.jpg
    :height: 115 px
    :width: 230 px
 
