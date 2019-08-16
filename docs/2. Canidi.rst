@@ -9,9 +9,9 @@ Il **cane** è un mammifero appartenente all'ordine *Carnivora*.
 
 |IMG1|
 
-.. |IMG1| image:: static/
-   :height: 420 px
-   :width: 330 px
+.. |IMG1| image:: static/foto-cani-divertenti-corgi-fb.jpg
+   :height: 366 px
+   :width: 346 px
 
 ---------------------
 
