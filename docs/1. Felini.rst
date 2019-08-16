@@ -38,8 +38,7 @@ Il **leone** è il più grande, dopo la tigre, dei cinque grandi felidi del gene
 
 |IMG3|
 
-.. |IMG3| image:: static/il-re-leone.jpg
-   :height: 180 px
+.. |IMG3| image:: static/
    :width: 320 px
 
 
