@@ -34,8 +34,8 @@ Il **lupo grigio** è un canide lupino, presente nelle zone remote del Nordameri
 Differenze tra cani e lupi
 
 
-        +------------------+
-        | Socializzazione  |
++-------+------------------+
+|       | Socializzazione  |
 +-------+------------------+
 | Cane  | natura socievole |
 +-------+------------------+
